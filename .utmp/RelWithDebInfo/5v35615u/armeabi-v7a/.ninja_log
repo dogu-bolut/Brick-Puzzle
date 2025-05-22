@@ -1,0 +1,5 @@
+# ninja log v5
+1	122	7694294803997027	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	951ced9ef4ce9752
+124	235	7694294805107523	C:/Users/dogu/Documents/GitHub/Brick-Puzzle/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5v35615u/obj/armeabi-v7a/libswappywrapper.so	b8521f57799c4e8e
+2	122	7694333842464755	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	951ced9ef4ce9752
+122	252	7694333843800501	C:/Users/dogu/Documents/GitHub/Brick-Puzzle/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5v35615u/obj/armeabi-v7a/libswappywrapper.so	b8521f57799c4e8e

@@ -1,0 +1,5 @@
+C:/Users/dogu/Documents/GitHub/Brick-Puzzle/.utmp/RelWithDebInfo/5v35615u/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/dogu/Documents/GitHub/Brick-Puzzle/.utmp/RelWithDebInfo/5v35615u/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/dogu/Documents/GitHub/Brick-Puzzle/.utmp/RelWithDebInfo/5v35615u/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/dogu/Documents/GitHub/Brick-Puzzle/.utmp/RelWithDebInfo/5v35615u/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/dogu/Documents/GitHub/Brick-Puzzle/.utmp/RelWithDebInfo/5v35615u/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
