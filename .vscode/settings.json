@@ -53,5 +53,5 @@
     },
     "workbench.settings.openDefaultKeybindings": true,
     "workbench.settings.openDefaultSettings": true,
-    "dotnet.defaultSolution": "Brick-Puzzle.sln"
+    "dotnet.defaultSolution": "Brick-Puzzle.slnx"
 }
